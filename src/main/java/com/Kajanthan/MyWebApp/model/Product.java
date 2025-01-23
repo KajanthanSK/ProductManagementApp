@@ -24,27 +24,33 @@ public class Product
         this.price = price;
     }
 
-    public int getProdId() {
+    public int getProdId()
+    {
         return prodId;
     }
 
-    public void setProdId(int prodId) {
+    public void setProdId(int prodId)
+    {
         this.prodId = prodId;
     }
 
-    public String getProdName() {
+    public String getProdName()
+    {
         return prodName;
     }
 
-    public void setProdName(String prodName) {
+    public void setProdName(String prodName)
+    {
         this.prodName = prodName;
     }
 
-    public double getPrice() {
+    public double getPrice()
+    {
         return price;
     }
 
-    public void setPrice(double price) {
+    public void setPrice(double price)
+    {
         this.price = price;
     }
 
